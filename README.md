@@ -23,3 +23,16 @@ Function/Method inside Class
 Visual Studio Code
 
 ## Output
+![image](https://github.com/user-attachments/assets/26a3025d-99c5-41c1-b100-fb5966d1b200)
+
+## Conclusion
+We learned about methods inside a class in C++.
+
+## Program 3
+## Aim
+Concept of Public and Private Variables in Class
+
+## Software used
+Visual Studio Code
+
+## Output
