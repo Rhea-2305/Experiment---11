@@ -1,0 +1,37 @@
+//Rhea Kulkarni
+//23070123106
+#include <iostream>
+using namespace std;
+class Car{
+    public:
+    string make = "Kia";
+    string model = "Seltos";
+    int year = 2024;
+};
+int main(){
+    Car myCar;
+    cout<<"Car details: "<<myCar.make<<" "<<myCar.model<<"("<<myCar.year<<")"<<endl;
+    return 0;
+}
+
+
+//Rhea Kulkarni
+//23070123106
+
+#include <iostream>
+using namespace std;
+class Student {
+public:
+    string name = "Rhea";   
+    string batch = "ENTC-B1";  
+    int prn = 106;
+ void displayInfo(){
+cout << "STUDENT DETAILS: " <<endl<< "Name: "<< name <<endl<<"Class: " << batch <<endl<<"PRN: " << prn <<endl;
+    }
+};
+
+int main(){
+    Student myself;
+    myself.displayInfo();
+    return 0;
+}
