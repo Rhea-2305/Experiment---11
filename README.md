@@ -36,3 +36,20 @@ Concept of Public and Private Variables in Class
 Visual Studio Code
 
 ## Output
+![image](https://github.com/user-attachments/assets/1de3633e-7134-4594-a1ae-a4320dcc6d1e)
+
+## Conclusion
+We learned about the types of variables inside a class in C++.
+
+## Program 4
+## Aim
+To write code for the given output
+
+## Software used
+Visual Studio Code
+
+## Output
+![image](https://github.com/user-attachments/assets/e57fd0ff-7b58-4e21-8ed1-42e8795a6171)
+
+## Conclusion
+We learned how to use classes to write the required code.
